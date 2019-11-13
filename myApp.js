@@ -1,6 +1,8 @@
 
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
+
+console.log('Hello World');
 
 // --> 7)  Mount the Logger middleware here
 
